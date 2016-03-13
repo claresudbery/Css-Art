@@ -34,10 +34,10 @@
 {
     background: #107dc0;
 	
-    /*animation-name: hair-animate;
-    animation-duration: 10s;
+    animation-name: hair-animate;
+    animation-duration: 5s;
     animation-timing-function: linear;
-    animation-iteration-count: infinite;*/
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair-circle
@@ -45,12 +45,17 @@
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
+	
+    animation-name: hair-circle-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair-main
 {
     animation-name: main-hair-disappear;
-    animation-duration: 10s;
+    animation-duration: 5s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
@@ -154,6 +159,11 @@
     -webkit-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair1-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair2
@@ -168,6 +178,11 @@
     -webkit-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair2-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair3
@@ -182,6 +197,11 @@
     -webkit-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair3-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair4
@@ -196,6 +216,11 @@
     -webkit-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair4-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair5
@@ -210,6 +235,11 @@
     -webkit-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair5-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair6
@@ -224,6 +254,11 @@
     -webkit-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair6-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair7
@@ -238,6 +273,11 @@
     -webkit-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair7-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair8
@@ -252,6 +292,11 @@
     -webkit-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair8-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair9
@@ -266,6 +311,11 @@
     -webkit-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair9-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair10
