@@ -33,11 +33,6 @@
 #marge .head .hair
 {
     background: #107dc0;
-	
-    animation-name: hair-animate;
-    animation-duration: 5s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
 }
 
 #marge .head .hair-circle
@@ -45,11 +40,6 @@
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
-	
-    animation-name: hair-circle-animate;
-    animation-duration: 5s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
 }
 
 #marge .head .hair-main
@@ -330,6 +320,11 @@
     -webkit-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 2px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair10-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair11
@@ -344,6 +339,11 @@
     -webkit-box-shadow: inset 0px 1px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 1px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 1px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair11-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair12
@@ -358,6 +358,11 @@
     -webkit-box-shadow: inset 0px 1px 0px 0px rgba(149,179,222,1);
     -moz-box-shadow: inset 0px 1px 0px 0px rgba(149,179,222,1);
     box-shadow: inset 0px 1px 0px 0px rgba(149,179,222,1);
+	
+    animation-name: hair12-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair13
@@ -369,6 +374,11 @@
     -webkit-transform: rotate(7deg);
     -ms-transform: rotate(7deg);
     transform: rotate(7deg);
+	
+    animation-name: hair13-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair14
@@ -380,6 +390,11 @@
     -webkit-transform: rotate(-18deg);
     -ms-transform: rotate(-18deg);
     transform: rotate(-18deg);
+	
+    animation-name: hair14-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair15
@@ -391,6 +406,11 @@
     -webkit-transform: rotate(-18deg);
     -ms-transform: rotate(-18deg);
     transform: rotate(-18deg);
+	
+    animation-name: hair15-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair16
@@ -402,6 +422,11 @@
     -webkit-transform: rotate(-18deg);
     -ms-transform: rotate(-18deg);
     transform: rotate(-18deg);
+	
+    animation-name: hair16-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair17
@@ -413,6 +438,11 @@
     -webkit-transform: rotate(-18deg);
     -ms-transform: rotate(-18deg);
     transform: rotate(-18deg);
+	
+    animation-name: hair17-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair18
@@ -424,6 +454,11 @@
     -webkit-transform: rotate(-18deg);
     -ms-transform: rotate(-18deg);
     transform: rotate(-18deg);
+	
+    animation-name: hair18-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair19
@@ -438,6 +473,11 @@
     -webkit-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair19-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair20
@@ -452,6 +492,11 @@
     -webkit-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair20-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair21
@@ -466,6 +511,11 @@
     -webkit-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair21-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair22
@@ -480,6 +530,11 @@
     -webkit-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair22-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair23
@@ -494,6 +549,11 @@
     -webkit-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair23-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair24
@@ -508,6 +568,11 @@
     -webkit-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair24-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair25
@@ -522,6 +587,11 @@
     -webkit-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair25-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair26
@@ -536,6 +606,11 @@
     -webkit-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair26-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair27
@@ -550,6 +625,11 @@
     -webkit-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair27-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair28
@@ -564,6 +644,11 @@
     -webkit-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 4px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair28-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair29
@@ -578,6 +663,11 @@
     -webkit-box-shadow: inset 10px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 10px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 10px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair29-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair30
@@ -592,6 +682,11 @@
     -webkit-box-shadow: inset 10px 0px 0px 0px rgba(16,94,142,1);
     -moz-box-shadow: inset 10px 0px 0px 0px rgba(16,94,142,1);
     box-shadow: inset 10px 0px 0px 0px rgba(16,94,142,1);
+	
+    animation-name: hair30-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .head-main
