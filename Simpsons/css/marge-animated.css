@@ -50,22 +50,6 @@
     -moz-border-radius: 50%;
 }
 
-#marge .head .hair-part1
-{
-    animation-name: hair-part1-animate;
-    animation-duration: 5s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-}
-
-#marge .head .hair-part2
-{
-    animation-name: hair-part2-animate;
-    animation-duration: 5s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-}
-
 #marge .head .hair-main1
 {
     top: 7px;
@@ -76,6 +60,11 @@
     -ms-transform: rotate(-18deg);
     transform: rotate(-18deg);
     border-radius: 19px 33px 0px 0px;
+	
+    animation-name: hair-main1-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair-main2
@@ -89,6 +78,11 @@
     transform: rotate(7deg);
     border-radius: 50% 50% 50% 50%;
 	opacity: 0;
+	
+    animation-name: hair-main2-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair-main3
@@ -102,6 +96,11 @@
     transform: rotate(71deg);
     border-radius: 50%;
 	opacity: 0;
+	
+    animation-name: hair-main3-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair-main4
@@ -115,6 +114,11 @@
     transform: rotate(67deg);
     border-radius: 50%;
 	opacity: 0;
+	
+    animation-name: hair-main4-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair-main5
@@ -127,6 +131,11 @@
     -ms-transform: rotate(-20deg);
     transform: rotate(-20deg);
 	opacity: 0;
+	
+    animation-name: hair-main5-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair-main6
@@ -142,6 +151,11 @@
     -ms-transform: rotate(-15deg);
     transform: rotate(-15deg);
 	opacity: 0;
+	
+    animation-name: hair-main6-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair-main7
@@ -151,6 +165,11 @@
     width: 7px;
     height: 7px;
 	opacity: 0;
+	
+    animation-name: hair-main7-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .hair1
