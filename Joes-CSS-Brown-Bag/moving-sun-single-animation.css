@@ -1,0 +1,125 @@
+.body{
+    margin: 0px ;
+}
+
+#outer-sun{
+    width: 100%;
+    height: 150px;
+    position: absolute;	
+
+    animation-name: sunrise-bezier-vertical;
+    animation-duration: 10s;
+    animation-timing-function: cubic-bezier(0, 0.5, 0.5, 1);
+    animation-iteration-count: infinite;
+}
+
+#inner-sun{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    border-radius: 100%;
+
+    animation-name: sunrise-bezier-horizontal;
+    animation-duration: 10s;
+    animation-timing-function: cubic-bezier(0.5, 0, 1, 0.5);
+    animation-iteration-count: infinite;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: skyblue;
+}
+
+.ground{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    height: 50px;
+}
+
+@keyframes sunrise-bezier-vertical {
+   0% {
+      left: 0;
+      bottom: 0;
+   } 
+   
+   25% {
+      left: 0;
+      bottom: 45%;
+   } 
+   
+   50% {
+      left: 0;
+      bottom: 90%;
+   } 
+   
+   75% {
+      left: 0;
+      bottom: 45%;
+   } 
+   
+   100% {
+      left: 0;
+      bottom: 0;
+   } 
+}
+
+@keyframes sunrise-bezier-horizontal {
+   0% {
+      left: 45%;
+      bottom: 0;
+      background: yellow;
+   } 
+   
+   25% {
+      left: 0;
+      bottom: 0;
+      background: yellow;
+   } 
+   
+   50% {
+      left: 45%;
+      bottom: 0;
+      background: yellow;
+   } 
+   
+   75% {
+      left: 90%;
+      bottom: 0;
+      background: yellow;
+   } 
+   
+   100% {
+      left: 45%;
+      bottom: 0;
+      background: yellow;
+   } 
+}
+
+#cloud{
+    width: 200px;
+    height: 50px;
+    top: 50px;
+    border-radius: 10px;
+    background-color: white;
+    position: absolute;
+
+    animation-name: cloudAnimation;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+#cloud:hover{
+    background-color: grey;
+}
+@keyframes cloudAnimation{
+    0% {
+        left: -10%;
+    }
+    100%{
+        left: 110%;
+    }
+}
