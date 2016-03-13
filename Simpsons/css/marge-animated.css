@@ -30,6 +30,14 @@
     background: #fbd800;
 }
 
+#marge .head .face
+{
+    animation-name: move-up;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
 #marge .head .hair
 {
     background: #107dc0;
@@ -42,9 +50,17 @@
     -moz-border-radius: 50%;
 }
 
-#marge .head .hair-main
+#marge .head .hair-part1
 {
-    animation-name: main-hair-disappear;
+    animation-name: hair-part1-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+#marge .head .hair-part2
+{
+    animation-name: hair-part2-animate;
     animation-duration: 5s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
@@ -695,6 +711,11 @@
     left: 65px;
     width: 48px;
     height: 40px;
+	
+    animation-name: head-main-animate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 #marge .head .ear
@@ -1160,4 +1181,54 @@
     -webkit-box-shadow: inset -2px 0px 0px 0px rgba(255,243,164,1);
     -moz-box-shadow: inset -2px 0px 0px 0px rgba(255,243,164,1);
     box-shadow: inset -2px 0px 0px 0px rgba(255,243,164,1);
+}
+
+#marge .lisa-head *
+{
+    border: 1px solid #110b00;
+}
+
+#marge .lisa-head .necklace
+{
+    width: 8px;
+    height: 8px;
+    background: #ffffff;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+	
+    animation-name: fade-in;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+#marge .lisa-head .necklace1
+{
+    top: 107px;
+    left: 35px;
+}
+
+#marge .lisa-head .necklace2
+{
+    top: 110px;
+    left: 44px;
+}
+
+#marge .lisa-head .necklace3
+{
+    top: 110px;
+    left: 53px;
+}
+
+#marge .lisa-head .necklace4
+{
+    top: 109px;
+    left: 63px;
+}
+
+#marge .lisa-head .necklace5
+{
+    top: 108px;
+    left: 69px;
 }
