@@ -1,0 +1,33 @@
+#sun{
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border-radius: 100%;
+    position: absolute;
+
+    animation-name: sunrise;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes sunrise {
+   0% {
+      bottom: 0;
+      left: 90%;
+   }
+
+   33% {
+      bottom: 90%;
+      left: 90%;
+   }
+
+   66% {
+      bottom: 90%;
+      left: 0%;
+   }
+
+   100% {
+      bottom: 0%;
+      left: 0%;
+   }
+}

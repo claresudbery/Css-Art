@@ -157,6 +157,134 @@
    }
 }
 
+@keyframes sunrise-no-timing {
+   0% {
+      left: 90%;
+      bottom: 0;
+      background: red;
+   }   
+
+   5% {
+      left: 85.5%;
+      bottom: 39.23%;
+      background: orange;
+   }  
+
+   10% {
+      left: 81%;
+      bottom: 54%;
+      background: yellow;
+   }  
+
+   15% {
+      left: 76.5%;
+      bottom: 64.27%;
+      background: green;
+   }  
+
+   20% {
+      left: 72%;
+      bottom: 72%;
+      background: blue;
+   }  
+
+   25% {
+      left: 67.5%;
+      bottom: 77.94%;
+      background: indigo;
+   }  
+
+   30% {
+      left: 63%;
+      bottom: 82.49%;
+      background: violet;
+   }  
+
+   35% {
+      left: 58.5%;
+      bottom: 85.85%;
+      background: red;
+   }  
+
+   40% {
+      left: 54%;
+      bottom: 88.18%;
+      background: orange;
+   }  
+
+   45% {
+      left: 49.5%;
+      bottom: 89.55%;
+      background: yellow;
+   }  
+
+   50% {
+      left: 45%;
+      bottom: 90%;
+      background: green;
+   }  
+
+   55% {
+      left: 40.5%;
+      bottom: 89.55%;
+      background: blue;
+   }  
+
+   60% {
+      left: 36%;
+      bottom: 88.18%;
+      background: indigo;
+   }  
+
+   65% {
+      left: 31.5%;
+      bottom: 85.85%;
+      background: violet;
+   }  
+
+   70% {
+      left: 27%;
+      bottom: 82.49%;
+      background: red;
+   }  
+
+   75% {
+      left: 22.5%;
+      bottom: 77.94%;
+      background: orange;
+   }  
+
+   80% {
+      left: 18%;
+      bottom: 72%;
+      background: yellow;
+   }  
+
+   85% {
+      left: 13.5%;
+      bottom: 64.27%;
+      background: green;
+   }  
+
+   90% {
+      left: 9%;
+      bottom: 54%;
+      background: blue;
+   }  
+
+   95% {
+      left: 4.5%;
+      bottom: 39.23%;
+      background: indigo;
+   }  
+
+   100% {
+      left: 0%;
+      bottom: 0%;
+      background: violet;
+   }
+}
+
 #cloud{
     width: 200px;
     height: 50px;
