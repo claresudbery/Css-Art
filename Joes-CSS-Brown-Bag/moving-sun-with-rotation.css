@@ -33,7 +33,7 @@
 
 @keyframes sunrise-rotation{
 	from{
-		transform:rotate(0deg) translate(0px);
+		transform:rotate(0deg) translate(-300px);
 	}
 	to{
 		transform:rotate(180deg) translate(-300px);
