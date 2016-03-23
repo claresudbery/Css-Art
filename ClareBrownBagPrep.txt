@@ -1,0 +1,36 @@
+Graphics Brown Bag
+
+Prep on the day: 
+1) Open all tabs in Notepad++
+2) Open all tabs in browser
+3) Open spreadsheet
+4) Start up TopGame (from exe)
+	Load up this saved game: 
+	P1: KooQoooooooooooJoooJKoJAoJ 
+	P2: oooooQoKoQooQKooooAooAooAo
+5) OPen up TopGame code
+6) Open up SavedGames.txt
+
+Prep in advance: 
+1) Powerpoint: Diagram for spreadsheet maths (no timing): 
+	X axis goes from -10 to +10
+	Y axis positive only, 0 to +10
+	Equation of circle (borrow from putative blog post)
+	Triangle drawn to point on circumference, with Pythagoras to calculate Y co-ordinate
+2) Powerpoint: Diagram for spreadsheet maths (+ timing):
+	Same graph as before
+	Spider-web lines to show every angle	
+	Triangle with SOHCAHTOA
+	Some way of showing the difference between individual angles and cumulative angles
+3) Powerpoint: bezier
+	Screenshots of cubic-bezier.com
+	My calculations re fast-slow and slow-fast
+	(another diagram?)
+4) Top Game
+	Look at code
+	Can I find any that makes sense??
+	Find diagrams? Make slides? Look at notes?
+		See spreadsheets!
+	 Helpfile.docx - para re num of possible games
+5) Install Top Game on host machine
+	

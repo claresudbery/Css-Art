@@ -9,7 +9,7 @@
     border-radius: 100%;
     position: absolute;	
 
-    animation-name: sunrise;
+    animation-name: sunrise-no-timing;
     animation-duration: 10s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
@@ -27,134 +27,6 @@
     width: 100%;
     background-color: green;
     height: 50px;
-}
-
-@keyframes sunrise {
-   0% {
-      left: 90%;
-      bottom: 0;
-      background: red;
-   }   
-
-   14.36% {
-      left: 85.5%;
-      bottom: 39.23%;
-      background: orange;
-   }  
-
-   20.48% {
-      left: 81%;
-      bottom: 54%;
-      background: yellow;
-   }  
-
-   25.32% {
-      left: 76.5%;
-      bottom: 64.27%;
-      background: green;
-   }  
-
-   29.52% {
-      left: 72%;
-      bottom: 72%;
-      background: blue;
-   }  
-
-   33.33% {
-      left: 67.5%;
-      bottom: 77.94%;
-      background: indigo;
-   }  
-
-   36.9% {
-      left: 63%;
-      bottom: 82.49%;
-      background: violet;
-   }  
-
-   40.3% {
-      left: 58.5%;
-      bottom: 85.85%;
-      background: red;
-   }  
-
-   43.59% {
-      left: 54%;
-      bottom: 88.18%;
-      background: orange;
-   }  
-
-   46.81% {
-      left: 49.5%;
-      bottom: 89.55%;
-      background: yellow;
-   }  
-
-   50% {
-      left: 45%;
-      bottom: 90%;
-      background: green;
-   }  
-
-   53.19% {
-      left: 40.5%;
-      bottom: 89.55%;
-      background: blue;
-   }  
-
-   56.41% {
-      left: 36%;
-      bottom: 88.18%;
-      background: indigo;
-   }  
-
-   59.7% {
-      left: 31.5%;
-      bottom: 85.85%;
-      background: violet;
-   }  
-
-   63.1% {
-      left: 27%;
-      bottom: 82.49%;
-      background: red;
-   }  
-
-   66.67% {
-      left: 22.5%;
-      bottom: 77.94%;
-      background: orange;
-   }  
-
-   70.48% {
-      left: 18%;
-      bottom: 72%;
-      background: yellow;
-   }  
-
-   74.68% {
-      left: 13.5%;
-      bottom: 64.27%;
-      background: green;
-   }  
-
-   79.52% {
-      left: 9%;
-      bottom: 54%;
-      background: blue;
-   }  
-
-   85.64% {
-      left: 4.5%;
-      bottom: 39.23%;
-      background: indigo;
-   }  
-
-   100% {
-      left: 0%;
-      bottom: 0%;
-      background: violet;
-   }
 }
 
 @keyframes sunrise-no-timing {
@@ -273,6 +145,134 @@
    }  
 
    95% {
+      left: 4.5%;
+      bottom: 39.23%;
+      background: indigo;
+   }  
+
+   100% {
+      left: 0%;
+      bottom: 0%;
+      background: violet;
+   }
+}
+
+@keyframes sunrise {
+   0% {
+      left: 90%;
+      bottom: 0;
+      background: red;
+   }   
+
+   14.36% {
+      left: 85.5%;
+      bottom: 39.23%;
+      background: orange;
+   }  
+
+   20.48% {
+      left: 81%;
+      bottom: 54%;
+      background: yellow;
+   }  
+
+   25.32% {
+      left: 76.5%;
+      bottom: 64.27%;
+      background: green;
+   }  
+
+   29.52% {
+      left: 72%;
+      bottom: 72%;
+      background: blue;
+   }  
+
+   33.33% {
+      left: 67.5%;
+      bottom: 77.94%;
+      background: indigo;
+   }  
+
+   36.9% {
+      left: 63%;
+      bottom: 82.49%;
+      background: violet;
+   }  
+
+   40.3% {
+      left: 58.5%;
+      bottom: 85.85%;
+      background: red;
+   }  
+
+   43.59% {
+      left: 54%;
+      bottom: 88.18%;
+      background: orange;
+   }  
+
+   46.81% {
+      left: 49.5%;
+      bottom: 89.55%;
+      background: yellow;
+   }  
+
+   50% {
+      left: 45%;
+      bottom: 90%;
+      background: green;
+   }  
+
+   53.19% {
+      left: 40.5%;
+      bottom: 89.55%;
+      background: blue;
+   }  
+
+   56.41% {
+      left: 36%;
+      bottom: 88.18%;
+      background: indigo;
+   }  
+
+   59.7% {
+      left: 31.5%;
+      bottom: 85.85%;
+      background: violet;
+   }  
+
+   63.1% {
+      left: 27%;
+      bottom: 82.49%;
+      background: red;
+   }  
+
+   66.67% {
+      left: 22.5%;
+      bottom: 77.94%;
+      background: orange;
+   }  
+
+   70.48% {
+      left: 18%;
+      bottom: 72%;
+      background: yellow;
+   }  
+
+   74.68% {
+      left: 13.5%;
+      bottom: 64.27%;
+      background: green;
+   }  
+
+   79.52% {
+      left: 9%;
+      bottom: 54%;
+      background: blue;
+   }  
+
+   85.64% {
       left: 4.5%;
       bottom: 39.23%;
       background: indigo;
