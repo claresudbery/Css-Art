@@ -1,15 +1,18 @@
 Graphics Brown Bag
 
 Prep on the day: 
+
+1) Add the following to bookmarks:
+	squares-2
+	space-ship
 1) Open all tabs in Notepad++
+7) Open up For-cubic-bezier-com.txt (C:\Users\Clare\Dropbox\IT Training\Web Stuff\Css-Art\Joes-CSS-Brown-Bag)
 2) Open all tabs in browser
+2a) Load curves into cubic-bezier.com
 3) Open spreadsheet
 4) Start up TopGame (from exe)
-	Load up this saved game: 
-	P1: KooQoooooooooooJoooJKoJAoJ 
-	P2: oooooQoKoQooQKooooAooAooAo
-5) OPen up TopGame code
-6) Open up SavedGames.txt
+5) OPen up TopGame code (OnePlayerGraphicsLoop and ManyHands)
+6) Open up Powerpoint
 
 Prep in advance: 
 1) Powerpoint: Diagram for spreadsheet maths (no timing): 
@@ -32,5 +35,12 @@ Prep in advance:
 	Find diagrams? Make slides? Look at notes?
 		See spreadsheets!
 	 Helpfile.docx - para re num of possible games
+	 Colours: 
+		•	Pale blue = non-face card
+		•	Turquoise = Aces
+		•	Green = Kings
+		•	Dark blue = Queens
+		•	Pink = Jacks
+
 5) Install Top Game on host machine
 	

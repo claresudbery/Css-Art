@@ -10,7 +10,7 @@
 	width:40px;
 	height:40px;
 	background-color:yellow;
-	border-radius:100%;
+	border-radius:0%;
 	
 	animation:sunrise-rotation infinite linear;
 	animation-duration:2s;
@@ -33,10 +33,10 @@
 
 @keyframes sunrise-rotation{
 	from{
-		transform:rotate(0deg) translate(-300px);
+		transform:rotate(0deg) translate(-300px) rotate(0deg);
 	}
 	to{
-		transform:rotate(180deg) translate(-300px);
+		transform:rotate(180deg) translate(-300px) rotate(-180deg);
 	}
 }
 

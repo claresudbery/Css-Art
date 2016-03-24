@@ -9,7 +9,7 @@
     border-radius: 100%;
     position: absolute;	
 
-    animation-name: sunrise-no-timing;
+    animation-name: sunrise;
     animation-duration: 10s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
