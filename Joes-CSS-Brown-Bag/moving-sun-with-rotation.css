@@ -10,7 +10,7 @@
 	width:40px;
 	height:40px;
 	background-color:yellow;
-	border-radius:0%;
+	border-radius:100%; /* Change this to 0% if you want to see the effect of the square rotating or not rotating (see animation below)*/
 	
 	animation:sunrise-rotation infinite linear;
 	animation-duration:2s;
@@ -33,10 +33,18 @@
 
 @keyframes sunrise-rotation{
 	from{
-		transform:rotate(0deg) translate(-300px) rotate(0deg);
+		/* With this version, if it's not a circle, it will also rotate */		
+		transform:rotate(0deg) translate(-300px);
+		
+		/* With this version, if it's not a circle, it will stay upright */
+		/*transform:rotate(0deg) translate(-300px) rotate(0deg);*/
 	}
 	to{
-		transform:rotate(180deg) translate(-300px) rotate(-180deg);
+		/* With this version, if it's not a circle, it will also rotate */
+		transform:rotate(180deg) translate(-300px);
+		
+		/* With this version, if it's not a circle, it will stay upright */
+		/*transform:rotate(180deg) translate(-300px) rotate(-180deg);*/
 	}
 }
 
