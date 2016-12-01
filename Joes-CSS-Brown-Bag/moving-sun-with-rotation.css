@@ -17,20 +17,6 @@
 	animation-delay:.1s;
 }
 
-.container{
-    width: 100%;
-    height: 100%;
-    background-color: skyblue;
-}
-
-.ground{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    background-color: green;
-    height: 50px;
-}
-
 @keyframes sunrise-rotation{
 	from{
 		/* With this version, if it's not a circle, it will also rotate */		
