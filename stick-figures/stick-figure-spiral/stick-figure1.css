@@ -206,55 +206,55 @@
 	10%{
 		transform:rotate(360deg) translate(-60px);
 	}
-	10.1%{
+	10.01%{
 		transform:rotate(0deg) translate(-60px);
 	}
 	20%{
 		transform:rotate(360deg) translate(-120px);
 	}
-	20.1%{
+	20.01%{
 		transform:rotate(0deg) translate(-120px);
 	}
 	30%{
 		transform:rotate(360deg) translate(-180px);
 	}
-	30.1%{
+	30.01%{
 		transform:rotate(0deg) translate(-180px);
 	}
 	40%{
 		transform:rotate(360deg) translate(-240px);
 	}
-	40.1%{
+	40.01%{
 		transform:rotate(0deg) translate(-240px);
 	}
 	50%{
 		transform:rotate(360deg) translate(-300px);
 	}
-	50.1%{
+	50.01%{
 		transform:rotate(0deg) translate(-300px);
 	}
 	60%{
 		transform:rotate(-360deg) translate(-240px);
 	}
-	60.1%{
+	60.01%{
 		transform:rotate(0deg) translate(-240px);
 	}
 	70%{
 		transform:rotate(-360deg) translate(-180px);
 	}
-	70.1%{
+	70.01%{
 		transform:rotate(0deg) translate(-180px);
 	}
 	80%{
 		transform:rotate(-360deg) translate(-120px);
 	}
-	80.1%{
+	80.01%{
 		transform:rotate(0deg) translate(-120px);
 	}
 	90%{
 		transform:rotate(-360deg) translate(-60px);
 	}
-	90.1%{
+	90.01%{
 		transform:rotate(0deg) translate(-60px);
 	}
 	100%{
